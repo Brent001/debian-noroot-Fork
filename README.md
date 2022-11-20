@@ -65,5 +65,8 @@ https://github.com/pelya/commandergenius/tree/sdl_android/project/jni/applicatio
 then install resulting .apk file on your Android device, and run it.
 
 ====================================================================
+
 If you Want To Change Desktp environment to Mate Desktop Environment. Edit The startx.sh in the root. Replace xfce-session to mate-session.
 Make sure you install mate desktop environment first before you change.
+
+sudo apt-get install mate-desktop-environment
